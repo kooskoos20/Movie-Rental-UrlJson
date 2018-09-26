@@ -1,0 +1,25 @@
+#start {
+  width: 400px;
+  float: left;
+  height: 3000px;
+}
+
+.poster1 {
+  float: left;
+  margin-right: 5px;
+}
+
+.buttons {
+  margin-left: 18px;
+  background-color: blue;
+  color: white;
+}
+
+#pad {
+  padding-block-end: 200px;
+}
+
+.poster1 {
+  height: 150px;
+  width: 90px;
+}
